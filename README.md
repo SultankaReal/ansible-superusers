@@ -2,5 +2,5 @@
 
 ## Создан playbook в /etc/ansible/playbooks/superuser.yml (superuser.yml в проекте)
 
-## Применение:
+# Применение:
 ansible-playbook /etc/ansible/playbooks/superuser.yml
